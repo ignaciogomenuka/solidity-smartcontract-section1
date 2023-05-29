@@ -6,7 +6,7 @@
   <meta charset="UTF-8">
   <meta name="viewport" content="width=device-width, initial-scale=1.0">
 
-  #Solidity Smart Contract first deploy.
+<h1>Solidity Smart Contract first deploy</h1>
 
 </head>
 
