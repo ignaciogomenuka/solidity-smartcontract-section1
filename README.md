@@ -5,10 +5,9 @@
 <head>
   <meta charset="UTF-8">
   <meta name="viewport" content="width=device-width, initial-scale=1.0">
-  <title>Solidity Smart Contract first deploy</title>
-  <style>
-    /* Add your CSS styles here */
-  </style>
+
+  #Solidity Smart Contract first deploy.
+
 </head>
 
 <body>
