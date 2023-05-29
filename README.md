@@ -1,4 +1,3 @@
-# solidity-smartcontract-section1
 
 <!DOCTYPE html>
 <html lang="en">
