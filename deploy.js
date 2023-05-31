@@ -4,6 +4,7 @@ const { interface, bytecode } = require('./compile'); // import interface and by
 
 
 const provider = new HDWalletProvider(
+    // Dummy wallet for testnets, you are not going to find any money here xD
     'bus tilt cruise athlete mountain fatal abstract rough dinner neutral usage say',
     'https://sepolia.infura.io/v3/c546504acba14d7daaf1e4459de9a488'
 );
